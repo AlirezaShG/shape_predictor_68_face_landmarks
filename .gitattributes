@@ -1,0 +1,2 @@
+*.rar filter=lfs diff=lfs merge=lfs -text
+shape_predictor_68_face_landmarks.rar filter=lfs diff=lfs merge=lfs -text
